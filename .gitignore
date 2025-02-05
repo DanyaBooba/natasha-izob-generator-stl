@@ -1,1 +1,4 @@
 examples/
+build/
+dist/
+main.spec
